@@ -1,0 +1,198 @@
+id,name_short,name,type,sex,birth,position,education,sucject,party,religion,kids,twitter,instagram,facebook,youtube
+fb,brantner,Franziska Brantner,0,2,1979,1,4,1,2,,1,14047,4470,2747,26
+ft,toncar,Florian Toncar,0,1,1979,1,4,2,3,1,3,8588,3069,4478,99
+rss,sutter,Rita Schwarzelühr-Sutter,0,2,1962,1,5,3,1,2,2,4249,1534,2941,17
+tl,lindner,Tobias Lindner,0,1,1982,2,4,3,2,,1,10503,3579,4920,
+bs,strasser,Benjamin Strasser,0,1,1987,1,6,2,3,2,,5811,3920,3372,287
+co,oezdemir,Cem Özdemir,0,1,1965,3,5,4,2,3,2,317191,105000,162574,
+mat,theurer,Michael A. Theurer,0,1,1967,1,5,3,3,1,2,8478,3744,27913,
+ck,kuehn,Chris Kühn,0,1,1979,1,7,1,2,,3,4786,1660,97,35
+jb,brandenburg,Jens Brandenburg,0,1,1986,1,4,1,3,,0,5407,3321,,
+wirtschaft,mwirtschaft,Ministerium Wirtschaft,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+finanzen,mfinanzen,Ministerium Finanzen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+inneres,minneres,Ministerium Inneres,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+auswaertig,aauswaertig,Auswärtiges Amt,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+justiz,mjustiz,Ministerium Justiz,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ernaehrung,mernaehrung,Ministerium Ernährung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verkehr,mverkehr,Ministerium Verkehr,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+umwelt,mumwelt,Ministerium Umwelt,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bildung,mbildung,Ministerium Bildung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dfpv,deutschfranzösisch,Deutsch-Französische Parlamentarische Versammlung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+europarl,euparlament,Europäisches Parlament,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bundestag,debundestag,Deutscher Bundestag,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gruene,bgruene,Bündnis Grüne,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+krisenpraevention,unterauskrisenpraevention,"Unterausschuss Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+antonyscollege,stantonyscollege,European Studies Centre St Antony’s College in Oxford,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+unifem,frauenrechtsorganisation,UN-Frauenrechtsorganisation,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+europeancouncil,europeancouncilforeignrelations,European Council on Foreign Relations,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bertelsmann,stiftungbertelsmann,Bertelsmann Sitftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+famaus,familienausschuss,"Ausschuss für Familie, Senioren, Frauen und Jugend",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+auswaertigaus,auswaertigerausschuss,Auswärtiger Ausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+euaus,euausschuss,Ausschuss für die Angelegenheiten der Europäischen Union,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+pandemie,gremiumcovid,Parlamentarisches Begleitgremium Covid-19-Pandemie,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+elyseevertrag,arbeitsgruppeelyseevertrag,Deutsch-französische Arbeitsgruppe zum Elysee-Vertrag,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+jacques,jdc,Jacques Delors Centre,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+frieden,friedenseinsätze,Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF),1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+mutterkind,stiftungmutterkind,Bundesstiftung Mutter und Kind − Schutz des ungeborenen Lebens,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+avanti,avantieuro,Avanti Europe ! e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+unimannheim,universimannheim,Universität Mannheim,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+youthcaucus,youthcaucuswomen,„Youth Caucus“ der UN Commission on the Status of Women,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+friedenskommission,friedenskommissionbundespartei,Friedens- und Sicherheitspolitische Kommission der Bundespartei,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+sicherheitsaus,sicherheitsausschuss,Unterausschuss für Sicherheit und Verteidigung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+frauenrechtsaus,frauenrechtsausschuss,Frauenrechts- und Gleichstellungsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+haushaltsaus,haushaltsausschuss,Haushaltsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+eppsp,euplatfromsecularism,European Parliament Platform for Secularism in Politics ,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+spinelli,sgi,Spinelli-Gruppen-Initiative,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+boellstiftung,hboellstiftung,Heinrich-Böll-Stiftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+untersuchaus,untersuchungsauschuss,3. Untersuchungsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+finanzaus,finanzausschuss,Finanzausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+altrat,aeltestenrat,Der Ältestenrat,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gemeinaus,gemeinsamerausschuss,Gemeinsamemer Ausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+innerenaus,auschussinneres,Ausschuss für Inneres und Heimat,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wahlaus,wahlausschuss,Wahlausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+vermittaus,vermittlungsausschuss,Vermittlungsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ausschusswahl,afwiug,"Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+freshfields,freshfieldsbruckhaus,"Freshfields Bruckhaus Deringer LLP, London",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+anwaltservice,anwaltservicestuggi,"AnwaltService Stuttgart GmbH, Stuttgart",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+kreditanstalt,kreditanstaltfrankfurt,"Kreditanstalt für Wiederaufbau (KfW), Frankfurt",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verwaltung,verwaltungsrat,Verwaltungsrat,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+beiratfinanz,beiratfinanzen,Beirat Finanzen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verantwortung,stiftungverantwortung,"Stiftung Verantwortungseigentum e.V., Berlin",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+fdp,parteifdp,Freien Demokraten,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+landesfachausschuss,landesfachausschussfdp,Landesfachausschuss (LFA) Innen und Recht der FDP Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+finanzgremium,finanzmarktgremium,Finanzmarktgremium,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+uregensburg,uniregensburg,Universität Regensburg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ucambridge,unicambridge,Universität Cambridge,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+uheidelberg,uniheidelberg,Universität Heidelberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+utuebingen,unitübingen,Eberhard-Karls-Universität Tübingen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+menschenrechte,menschenrechtefdp,Sprecher für Menschenrechte und humanitäre Hilfe der FDP Bundestagsfraktion,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+richteraus,richterwahlausschuss,Richterwahlausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+vereinfreunde,vereinderfreunde,Verein der Freunde des Goldberg-Gymnasiums Sindelfingen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+selwyn,selwyncollegeassociation,Selwyn College Association Cambridge,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+scheffelbund,literarischegesellschaft,Literarische Gesellschaft Scheffelbund,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dlrg,dlrg,DLRG,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dag,deutschatlantischegesellschaft,Deutsch-Atlantische Gesellschaft,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dig,deutschisaelischegesellschaft,Deutsch-Israelische Gesellschaft,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+help,helpev,help e.V. ,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+alumnihd,alumnivereinheidelberg,Alumniverein der Ruprecht-Karls-Universität Heidelberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+freunderegensburg,vereinderfreunderegensburg,Verein der Freunde der Universität Regensburg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+rechtaus,rechtsausschuss,Rechtsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+parlbeirat,parlamentarischerbeirat,Parlamentarischer Beirat für nachhaltige Entwicklung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+paramount,paramountNY,"Paramount Group Inc., New York",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+flug,zweckverbandflugfeld,Zweckverband Flugfeld Böblingen/Sindelfingen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+heussstiftung,theodorheussstiftung,"Theodor-Heuss-Stiftung, Stuttgart",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+hauptaus,hauptausschuss,Hauptausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ufreiburg,unifreiburg,Universität Freiburg im Breigau,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+uzuerich,unizuerich,Universität Zürich,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+beratung,beratungkarin,Beratung und Kommunikation für Karin Rehbock-Zureich,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+spd,parteispd,SPD,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verdi,verdii,ver.di,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+vergessen,gegenvergessen,Gegen Vergessen Für Demokratie e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+eurosolare,eurosolarevereinigung,EUROSOLARE Europäische Vereinigung für Erneuerbare Energien e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+klar,klarleben,KLAR - Kein Leben mit atomaren Risiken,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+hospiz,hospizdienst,Hospizdienst e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gesellreaktor,gesellschaftreaktorsicherheit,"Geselllschaft für Anlagen- und Reaktorsicherheit (GRS) mbH, Köln",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dbu,umweltstiftung,"Deutsche Bundesstiftung Umwelt (DBU), Osnabrück",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wirtforum,wirtschaftsforum,"Wirtschaftsforum der SPD e.V., Berlin",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+arbeiterwohl,arbeiterwohlfahrt,Arbeiterwohlfahrt,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+arbeitergemeinfrau,arbeitsgemeinschaftfrau,Arbeitsgemeinschaft sozialdemokratischer Frauen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wirtschaftaus,ausschusswirtschaft,Ausschuss für Wirtschaft und Technologie,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verkehraus,verkehrsausschuss,"Ausschuss für Verkehr, Bau und Stadtentwicklung",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+evangelischfh,evfachhochschulereutlingen,Evangelische Fachhochschule für Sozialwesen Reutlingen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ajc,americanjewishcommittee,American Jewish Committee,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dtf,deutschtürkischesforum,Kuratorium des Deutsch-Türkischen Forum Stuttgart e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ths,theodorheussstiftung,Kuratorium der Theodor-Heuss-Stiftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bvmw,bundesverbandwirtschaft,Bundesverband Mittelständische Wirtschaft,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ullstein,ullsteinbuchverlage,Ullstein Buchverlage GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+celebrity,celebrityspeakers,Celebrity Speakers Limited,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+heimeier,drheimeier,Dr. Heimeier & Partner Management- und Personalberatung GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+young,ernstyoung,Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+immoebs,immoebsev,IMMOEBS e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+schweizinsti,schweizerischesinstitut,Schweizerisches Institut für Auslandsforschung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+tapestry,tapestrynetworks,Tapestry Networks,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+speakerlondon,thelondonspeakerbureau,The London Speaker Bureau,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+smartenergy,smartenergyforeurope,Agora Verkehrswende Smart Energy for Europe Plattform,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+destiftung,deutschlandstiftung,Deutschlandstiftung Integration gemeinnützige GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+start,startstiftung,Start-Stiftung gemeinnützige GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ifm,institutmobilität,Institut für Mobilität der Universität St. Gallen,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+iff,institutfreedom,Institute for Freedom of Faith & Security in Europe,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ai,atlantischeinitiative,Atlantische Initiative e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+as,avicennastudienwerk,Avicenna-Studienwerk e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dpz,progressiveszentrum,Das Progressive Zentrum e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+fc,fcplayfair,FC Play Fair! Verein für Integrität und Nachhaltigkeit im Fußball e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ikw,ichkannwas,Ich kann was!-Initiative für Kinder und Jugendliche e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+stiftunggedenken,stiftunggedenkenfrieden,Stiftung Gedenken und Frieden,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+stiftungbild,stiftungbildung,Stiftung: Bildung Egitim!,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+tuerkdeu,tuerkischdeutscheplattform,Türkisch-Deutsche Studierenden und Akademiker Plattform e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wirtwest,wirtschaftwestfalen,Wirtschaftliche Gesellschaft für Westfalen und Lippe e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+zdf,zdffernsehrat,ZDF Fernsehrat,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+af,aktionfahrrad,AKTIONfahrRAD,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+haushaltkontrolle,haushaltskontrollausschuss,Haushalt-Kontrollausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verbandvers,verbandsversammlung,Verbandsversammlung Regionalverband Nordschwarzwald,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+reinhold,reinholdmaierstiftung,Reinhold-Maier-Stiftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wolfgang,wolfgangdoeringstiftung,Wolfgang-Döring-Stiftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dhbw,dualehochschulebw,Duale Hochschule Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+arbeitsaus,ausschussarbeitsoziales,Ausschuss für Arbeit und Soziales,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+tourisaus,ausschusstourismus,Ausschuss für Tourismus,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gesundheitsaus,ausschussgesundheit,Ausschuss für Gesundheit,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+iks,konferenzstabilitaet,"Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+cnc,communicationsnetwork,Communications & Network Consulting AG,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+leuco,leucoag,Leuco AG,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+sparkasse,kreissparkasse,Kreisparkkasse Freudenstadt,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bank,lbank,Landeskreditbank Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bb,badenbaden,Baden-Badener Unternehmer Gespräche e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+aiesec,deutscheskomitee,Deutsches Komitee der AIESEC e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+idi,initiativeinfrastruktur,Initiative Deutsche Infrastruktur e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+wirtschaftsclub,wirtschaftsclubde,Wirtschaftspolitischer Club Deutschland e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+twf,twfmetall,TWF Metallbearbeitungs Holding UG,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ltbw,landtagbw,Landtag Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ukarlsruhe,unikarlsruhe,Karlsruher Institut für Technologie,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+landesanstaltumweltschutz,Ifu,Zivildienst an der Landesanstalt für Umweltschutz Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+grueneju,gruenejugend,Grünen Jugend,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verteidigungaus,verteidigungsausschuss,Verteidigungsausschuss ,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+rechnungsaus,rechnungsprüfungsausschuss,Stellvertretender Vorsitzender des Rechnungsprüfungsausschusses,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+vertrauen,vertrauensgremium,Mitglied im Vertrauensgremium,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+pvnato,parlamentarischeversammlungnato,Parlamentarische Versammlung der NATO,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+berger,rolandbergergmbh,Roland Berger GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+hector,hectorschool,Hector School of Engineering and Management,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ostfriese,ostfriesischewinzer,Mitglied Aufsichtsrat Erste Ostfriesische Winzergenossenschaft eG i.G.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+immobilie,bundesanstaltimmo,Mitglied Verwaltungsrat Bundesanstalt für Immobilienaufgaben,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+europauniondeutschland,europauniondeutschlandeV,Mitglied Europa-Union Deutschland e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+kuragenera,kuratoriumgenerationen,Mitglied im Kuratorium Mehrgenerationenhaus der Stadt Wörth am Rhein,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+zweckabfall,zweckverbandabfall,Mitglied im Zweckverband Abfallverwertung Südwestpfalz,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+guericke,agindustrielleforschung,Mitglied des Senats Arbeitsgemeinschaft industrieller Forschungsvereinigungen Otto von Guericke e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+georgischesforum,deutschgeorgischesforum,"Vorstand Deutsch-Georgisches Forum für Politik, Wissenschaft und Kultur e.V.",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+haviva,givadhaviva,Beirat Freundeskreis Givat Haviva Deutschland e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+zuse,industrieforschung,Senatsmitglied Deutsche Industrieforschungsgemeinschaft Konrad Zuse e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+juli,jungeliberale,Junge Liberale,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ukonstanz,unikonstanz,Universität Konstanz,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+untersuchung,nsuuntersuchung,Berater für NSU-Untersuchungsausschuss Landtag Baden-Württemberg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gemeindeberg,gemeinderatberg,Gemeinderat Gemeinde Berg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gremiumzoll,gremiumzollfahndung,Mitglied Gremium Zollfahndungsgesetz,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+lhp,lhp gesellschaft,LHP Dienstleistungs- und Bildungssellschaft GmbH,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+musik,bundesmusikverband,Präsident Bundesmusikverband Chor und Orchester e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+zukunft,zukunftsforumsicherheit,Beirat Zukunftsforum öffentliche Sicherheit e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+amnesty,amnestyinternational,Mitglied Amnesty International,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+blutreitergruppe,blutreiterberg,Mitglied Blutreitergruppe Berg,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+chor,chorpeterpaul,Mitglied Kirchenchor St. Peter und Paul ,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ausbauwo,ausschussbauwohnen,"Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+umaus,umweltausschuss,"Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+stadtbahn,prostadtbahn,Pro RegioStadtbahn e.V,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+verbwohn,wohneigentum,Verband Wohneigentum e.V,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+kuaus,kulturausschuss,Ausschuss Kultur und Medien,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+veraus,verkehrsausschuss,Ausschuss für Verkehr und digitale Infrastruktur,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+deneff,initiativeenergie,Deutsche Unternehmensinitiative Energieeffizienz e.V. (DENEFF),1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+baukultur,stiftungbaukultur,Bundesstiftung Baukultur,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+mithermann,mitarbeithermann,Mitarbeiter des Bundestagsabgeordneten Winne Hermann,0,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+mitverwaltung,mitarbeitverwaltung,Mitarbeiter in der Verwaltung der Fakultät für Wirtschaftswissenschaften der Uni Tübingen,0,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+koaaus,koalition,Koalitionsausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gsess,economicschool,Graduate School of Economic and Social Sciences,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+hirschfeld,stiftunghirschfeld,Bundesstiftung Magnus Hirschfeld,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+aids,stiftungaids,Deutsche AIDS-Stiftung,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+ecoclub,economyclub,Young Economy Club e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+privaths,privatehochschule,Verband der privaten Hochschulen e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+lisl,liberaleschwules,Liberale Schwule und Lesben (LiSL) Deutschland e.V.,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+dsw,studentenwerk,Deutsches Studentenwerk e.V. (DSW),1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+gzs,gesellschaftstudium,"Gesellschaft zum Studium strukturpolitischer Fragen e.v., Berlin",1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+bildungaus,bildungausschuss,Bildungausschuss,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
+kA,keineangabe,keine Angabe,1,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA,kA
